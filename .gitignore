@@ -1,0 +1,6 @@
+# Ignore the heavy original data
+regular_alt_batteries/
+
+# Ignore python cache files
+__pycache__/
+*.pyc
