@@ -3,7 +3,7 @@
 This repository contains an automated workflow for estimating Li-ion cell parameters and State of Charge (SOC) using the NASA Battery Data Set.
 Project Overview
 The goal of this project is to develop a robust SOC estimator and identify time-varying Equivalent Circuit Model (ECM) parameters.
-Target Accuracy: SOC error \leq 5\% across typical operating profiles.
+Target Accuracy: SOC error <= 5% across typical operating profiles.
 
 Phase 1 (OCV-SOC Modeling)
 We have completed the derivation of the OCV-SOC curve from raw charge/discharge tests.
